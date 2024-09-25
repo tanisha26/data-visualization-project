@@ -5,6 +5,9 @@ This project contains data visualizations created using Tableau, along with the 
 ## Dataset
 The dataset used for this project can be found on Kaggle: [Airbnb Dataset](https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview/data)
 
+## Dataset
+The dataset used for this project can be found on Kaggle: [Airbnb Dataset](https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview/data)
+
 ## Files
 - `2344624-DV.twb`: Tableau workbook file.
 - `train.csv`: Dataset used for visualizations.
